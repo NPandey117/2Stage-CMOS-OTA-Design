@@ -46,11 +46,11 @@ The OTA is used as a non-inverting amplifier with closed-loop gain of 2.
 
 ### Open Loop Response
 
-![Bode Plot](images/bode_plot.png)
+![DC Gain](images/open_loop_gain.png)
 
 ### Closed Loop Step Response
 
-![Transient Response](images/transient_response.png)
+![Step Response](images/StepResponse.png)
 
 ---
 
