@@ -62,4 +62,4 @@ calculations/    -> Hand calculations
 spice/           -> LTspice schematic files
 images/          -> Simulation plots
 schematics/      -> Circuit schematic images
-
+docs/            -> Design Details
